@@ -1,2 +1,5 @@
 Step 1: Order the Pizza
 Step 2: Wait for the delivery
+Step 3: Get the pizza ready
+Step 4: Check on the neighbor
+Step 5: Do a dance
